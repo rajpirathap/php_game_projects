@@ -1,0 +1,12 @@
+1)You can host it to server and run index.php
+2)Click 'next pattern' button to view the next pattern/changes
+
+Note: comment out the below code to automatically allow the patterns to get change.(In future this can handle using Ajax in better way to avoid page refresh
+)
+/*
+$page = $_SERVER['PHP_SELF'];
+$sec = "1";
+*/
+
+
+Now the default grid dimension is set to 15. And in the future, we can have an input field to allow the user to change it. 

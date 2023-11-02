@@ -1,0 +1,7 @@
+This is written in pure PHP using oop concepts.
+This can run in terminal or cmd.
+
+
+You can run this index file as follows,
+Go to terminal/cmd and type 'php index.php'
+The patterns will show in terminal.
